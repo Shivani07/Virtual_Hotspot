@@ -1,0 +1,17 @@
+
+This application simply gives you the privilage to share your internet connection with other users.
+This makes your system into hotspot device that shares internet.
+
+To run this program correctly, provide SSID i.e.name for you hotspot of more than letter and Password of more than 8 letters.Then click the Start button.
+
+Now the hotspot is ready but still it will not provide access to your internet connection.
+To enable internet sharing with your hotspot, follow the instructions below:
+
+1) Go to the Control Panel -> Open Network and Sharing Center -> Change Adapter Settings.
+
+2) Now choose the connection that is the internet source of your system.
+
+3) Select the Network Connection that is providing Internet Connection to your system, right-click it, go to Properties -> Sharing. 
+Under Internet Connection Sharing -> Tick the "Allow other network users to connect through this computer's Internet Connection"; then under Home networking connection drop-down, choose the name of connection of your Hotspot.
+
+4) Click OK and you are done!
